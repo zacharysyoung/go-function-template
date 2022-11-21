@@ -1,5 +1,7 @@
 # Go Function
 
+From [How I Structure Cloud Functions in Go](https://levelup.gitconnected.com/how-i-structure-cloud-functions-in-go-61e151b278ac).
+
 This function was generated using the `agilefoxHQ/go-template-function repository. It is a Google Cloud Function written in Go 1.16 with some bootstrapping code provided for a sample deploy pipeline.
 
 It also has a main package for local testing using Google Functions Framework.
